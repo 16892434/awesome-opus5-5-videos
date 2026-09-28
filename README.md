@@ -1,14 +1,15 @@
 # Awesome Opus 5.5 Videos
 
-Viral videos people made with **Claude Opus 5.5**, each with the exact prompt the creator shared.
+Viral videos people made with **Claude Opus 5.5**, each with the prompt the creator shared (or, where no prompt was published, their original post).
 
 Every video here was made by asking Claude Opus 5.5 to write the animation as code (HTML, Canvas, SVG, Three.js and friends). Pick one, copy its prompt, and try it with your own agent.
 
-**[▶ Watch all 282 side by side with live remakes on Skillry](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
+**[▶ Watch all 389 side by side with live remakes on Skillry](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
 
-- 282 prompts in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json)
+- 389 prompts in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json)
 - 100 highlighted below, one per distinct prompt
 - Every entry links to the creator's original post
+- Latest update (2026-09-28): 107 videos added, mostly games and 3D scenes
 
 ## Contents
 
@@ -80,7 +81,7 @@ Every video here was made by asking Claude Opus 5.5 to write the animation as co
 2. Paste it into Claude Opus 5.5 (Claude Code, the Claude app, or any agent running Opus 5.5).
 3. Ask it to render the result as a single HTML file, then record the page if you want a video.
 
-Some creators only shared part of their prompt; those files say so.
+Some creators shared only part of their prompt, or only described the result in their post; those files say so.
 
 ## Credits
 

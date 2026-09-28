@@ -1,10 +1,14 @@
 # Awesome Opus 5.5 Videos
 
+<a href="https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.skillry.dev/opus-5-5/_readme/mosaic.fc36404ce3.webp" alt="A wall of videos made with Claude Opus 5.5: games, 3D scenes, explainers and motion graphics" width="100%"></a>
+
 Viral videos people made with **Claude Opus 5.5**, each with the prompt the creator shared (or, where no prompt was published, their original post).
 
 Every video here was made by asking Claude Opus 5.5 to write the animation as code (HTML, Canvas, SVG, Three.js and friends). Pick one, copy its prompt, and try it with your own agent.
 
 **[▶ Watch all 389 side by side with live remakes on Skillry](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
+
+<a href="https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.skillry.dev/opus-5-5/_readme/site-compare.592de731e6.webp" alt="The Opus 5.5 videos page on Skillry, showing each original next to its live remake" width="100%"></a>
 
 - 389 prompts in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json)
 - 100 highlighted below, one per distinct prompt

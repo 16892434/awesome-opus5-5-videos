@@ -1,21 +1,19 @@
 # Awesome Opus 5.5 Videos
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 <a href="https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.skillry.dev/opus-5-5/_readme/mosaic.fc36404ce3.webp" alt="A wall of videos made with Claude Opus 5.5: games, 3D scenes, explainers and motion graphics" width="100%"></a>
 
 Viral videos people made with **Claude Opus 5.5**, each with the prompt the creator shared (or, where no prompt was published, their original post).
 
 Every video here was made by asking Claude Opus 5.5 to write the animation as code (HTML, Canvas, SVG, Three.js and friends). Pick one, copy its prompt, and try it with your own agent.
 
-**[▶ Watch all 389 side by side with live remakes on Skillry](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
+**[▶ Watch all 475 side by side with live remakes on Skillry](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**
 
 <a href="https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos"><img src="https://media.skillry.dev/opus-5-5/_readme/site-compare.592de731e6.webp" alt="The Opus 5.5 videos page on Skillry, showing each original next to its live remake" width="100%"></a>
 
-- 389 prompts in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json)
+- 475 prompts in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json)
 - 100 highlighted below, one per distinct prompt
 - Every entry links to the creator's original post
-- Latest update (2026-09-28): 107 videos added, mostly games and 3D scenes
+- Latest update (2026-09-29): 86 videos added, mostly motion graphics and explainers
 
 ## Contents
 
@@ -25,7 +23,6 @@ Every video here was made by asking Claude Opus 5.5 to write the animation as co
 - [Games & interactive](#games--interactive) (12)
 - [How to use a prompt](#how-to-use-a-prompt)
 - [Credits](#credits)
-- [License](#license)
 
 ## Motion graphics
 
@@ -95,7 +92,3 @@ Some creators shared only part of their prompt, or only described the result in 
 Every video and prompt belongs to its creator, linked from each entry. Previews are short clips hosted for this list. If you are a creator and want an entry changed or removed, open an issue.
 
 Browse the full collection with original and remake side by side at **[skillry.dev/ai-videos/opus-5-5](https://skillry.dev/ai-videos/opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-opus5-5-videos)**.
-
-## License
-
-[MIT](LICENSE) © 2026 yihui-dev. The license covers this list, the README and the data files written for this repository. The original videos and prompts stay with their creators, as noted in [Credits](#credits).
